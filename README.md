@@ -6,3 +6,5 @@ Plataforma: Mobile
 Engine: Framework Phaser3
 
 Linguagem de programação: JavaScript
+
+Disponivel para jogar no navegador em https://andersonpaim.github.io/MaisUmDia/ Obs - usar 50% escala no navegador
